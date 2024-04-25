@@ -1,0 +1,30 @@
+# directories
+node_modules/
+dist/
+build/
+coverage/
+logs/
+.husky/
+
+# secrets
+.env
+.env.sample
+
+# logs
+*-error.log
+
+# misc
+.eslintcache
+pnpm-lock.yaml
+.eslintignore
+.eslintrc.json
+.gitignore
+.nvmrc
+.prettierignore
+*.md
+
+
+*.config.js
+cspell.json
+/src/router.ts
+index.html

@@ -1,0 +1,38 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "pnpm",
+    "commitlint",
+    "tailwindcss",
+    "svgr",
+    "zustand",
+    "Avenir",
+    "tanstack",
+    "fortawesome",
+    "fontawesome",
+    "daisyui",
+    "evenodd",
+    "linecap",
+    "linejoin",
+    "generouted",
+    "overriden",
+    "vite",
+    "eslintcache",
+    "linebreak",
+    "autofix",
+    "immer",
+    "ntvs",
+    "njsproj",
+    "nvmrc"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "node_modules/",
+    "build/",
+    "coverage/",
+    ".husky",
+    "pnpm-lock.yaml",
+    "package.json"
+  ]
+}

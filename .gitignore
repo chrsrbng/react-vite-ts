@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+*-error.log
+*-debug.log
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# env
+.env
+.env.base64
+.env.dev
+.env.staging
+.env.production
+
+
+# dependencies
+/.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# production
+build/
+
+# misc
+.DS_Store
+.eslintcache
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
