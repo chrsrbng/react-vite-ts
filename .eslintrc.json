@@ -70,13 +70,7 @@
     "@typescript-eslint/naming-convention": [
       "error",
       {
-        "selector": [
-          "interface",
-          "typeAlias",
-          "enum",
-          "class",
-          "typeParameter"
-        ],
+        "selector": ["interface", "typeAlias", "enum", "class", "typeParameter"],
         "format": ["PascalCase"]
       }
     ],

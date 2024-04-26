@@ -10,6 +10,7 @@ server/
 jest.*.ts
 *.config.js
 *.config.ts
+*.config.cjs
 
 # env
 .env
